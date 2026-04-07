@@ -3,15 +3,22 @@ Dapoer R2 adalah platform katalog digital berbasis web yang dikhususkan untuk si
 
 ✨ Fitur Utama
 Digital Menu Showcase: Katalog makanan yang bersih dan responsif, memudahkan pelanggan melihat detail menu khas Dapoer R2.
+
 Direct WhatsApp Integration: Tombol "Pesan Sekarang" yang otomatis menyusun format teks pesanan (Nama, Menu, Alamat) dan mengarahkannya ke WhatsApp Admin.
+
 Pre-Order Schedule: Informasi jelas mengenai jadwal buka/tutup PO untuk memastikan kesegaran masakan.
+
 Mobile First Design: Dioptimalkan untuk pengguna smartphone agar proses pemesanan secepat mengirim pesan singkat.
 
 🛠️ Tech Stack
 Framework: Next.js (Frontend Only)
+
 Styling: Tailwind CSS
+
 Deployment: Vercel / Netlify
 
 🚀 Live Demo
+
 Cek aplikasi yang sudah dideploy secara langsung di sini:
+
 🔗 https://dapoer-r2.vercel.app/menu
