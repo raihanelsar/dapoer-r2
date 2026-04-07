@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   authors: [{ name: "Dapur R2" }],
 
   openGraph: {
-    title: "DAPUR R2 | Citarasa Minang Autentik",
+    title: "DAPOER R2 | Citarasa Minang Autentik",
     description:
       "Menghadirkan warisan rasa Minangkabau dengan bumbu rahasia. Dimasak fresh dengan sistem Pre-Order khusus untuk Anda.",
     url: "https://dapoer-r2.vercel.app",

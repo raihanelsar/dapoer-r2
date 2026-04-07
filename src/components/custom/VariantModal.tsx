@@ -40,7 +40,7 @@ export function VariantModal({ product, isOpen, onClose }: VariantModalProps) {
     }
 
     const today = new Date();
-    today.setDate(today.getDate() + 2);
+    today.setDate(today.getDate() + 1);
     const formattedMinDate = today.toISOString().split("T")[0];
     setMinDateStr(formattedMinDate);
     setPoDate(formattedMinDate);
@@ -125,7 +125,7 @@ export function VariantModal({ product, isOpen, onClose }: VariantModalProps) {
           {/* 2. Section Pilih Tanggal PO */}
           <div>
             <h4 className="mb-3 text-sm font-medium leading-none">
-              2. Tanggal Pengiriman (Min. H+2):
+              2. Tanggal Pengiriman (Min. H+1):
             </h4>
             <input
               type="date"
