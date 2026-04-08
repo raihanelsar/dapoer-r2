@@ -50,7 +50,7 @@ export function VariantModal({ product, isOpen, onClose }: VariantModalProps) {
 
   const handleAddToCart = () => {
     if (!selectedVariant) return;
-    if (!poDate) {
+    if (!poDate)  {
       toast.error("Mohon pilih tanggal pengiriman!");
       return;
     }
