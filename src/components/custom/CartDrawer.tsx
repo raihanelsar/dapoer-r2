@@ -69,7 +69,7 @@ export function CartDrawer({ isOpen, onClose }: CartDrawerProps) {
     });
 
     pesan += `*Total Pesanan: Rp ${totalPrice.toLocaleString("id-ID")}*%0A%0A`;
-    pesan += `%0A *Data Pemesan* %0A`;
+    pesan += `%0A*Data Pemesan*%0A`;
     pesan += `Nama: ${cust_name}%0A`
     pesan += `No. Telp: ${cust_phone}%0A`
     pesan += `Alamat: ${cust_address}%0A%0A`
@@ -78,7 +78,7 @@ export function CartDrawer({ isOpen, onClose }: CartDrawerProps) {
       pesan += `*Catatan Tambahan:*%0A${note}%0A%0A`;
     }
 
-    pesan += `Mohon info untuk total ongkos kirim dan instruksi pembayarannya. Terima kasih!`;
+    pesan += `Mohon tunggu informasi untuk total ongkos kirim dan instruksi pembayarannya. Terima kasih!`;
 
     window.open(`https://wa.me/${nomorWA}?text=${pesan}`, "_blank");
   };
