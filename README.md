@@ -24,4 +24,4 @@ Deployment: Vercel / Netlify
 
 Cek aplikasi yang sudah dideploy secara langsung di sini:
 
-🔗 https://dapoer-r2.vercel.app/menu
+🔗 (https://dapoerr2.vercel.app)
