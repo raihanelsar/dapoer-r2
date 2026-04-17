@@ -30,7 +30,7 @@ export const faqItems: FAQItem[] = [
     },
     {
         question: "Mengapa pembayaran harus lunas di awal?",
-        answer: "Setiap pesanan di Dapoer R2 bersifat made-to-order (dimasak khusus untuk Anda). Pembayaran di awal memungkinkan kami langsung membeli bahan baku segar di hari yang sama, sehingga proses produksi lebih cepat dan terjadwal. Selain itu, Anda juga tidak perlu repot dengan pembayaran saat pengiriman—semua sudah beres dari awal.",
+        answer: "Setiap pesanan di Dapoer R2 dimasak khusus (made-to-order), kami hanya menggunakan bahan baku segar yang dibeli setelah order masuk. Pembayaran di awal membantu kami memproses pesanan Anda lebih cepat dan terjadwal dengan baik. Selain itu, Anda juga bisa lebih nyaman karena saat pesanan tiba, semuanya sudah beres tanpa perlu transaksi tambahan.",
     },
     {
         question: "Bagaimana cara pengirimannya?",
